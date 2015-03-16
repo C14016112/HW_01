@@ -2,9 +2,9 @@
 
 int main()
 {
-	int  ;
-	for(i=0;i<  ;++i)
+	int i;
+	for(i=0;i<9;++i)
 	{
-		printf("egg-  \n",  );	// please print egg-1, egg-2, egg-3, ..., egg-9
+		printf("egg-%d\n",i );	// please print egg-1, egg-2, egg-3, ..., egg-9
 	}
 }
